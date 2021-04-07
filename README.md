@@ -5,10 +5,9 @@ Collection of Data Science Projects completed by me for academic, self learning 
 ## Recommendation System
 
 ### Movie Recommendation system
-[Project Link](https://github.com/adesh-gadge/challenges/blob/master/data-science/data-science-exercise-solution.ipynb) </br>
+[Project Link]() </br>
 Impelemented Collaborative Filtering, Content Filtering and Hybrid Recommendation system </br>
-Performed data preprocessing: erroneous(outlier) sensor readings removal, standardization, reshaping </br>
-Detected faulty stage about 47 days prior failure occurs giving ample time for engineers for quality check </br>
+
 
 ### Human Protein Multi Label Image Classification
 [Project Link](https://jovian.ml/adesh-gadge/protein-advanced) </br>

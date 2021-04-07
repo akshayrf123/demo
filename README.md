@@ -4,9 +4,9 @@ Collection of Data Science Projects completed by me for academic, self learning 
 
 ## Recommendation System
 
-### Movie Recoomendation system
+### Movie Recommendation system
 [Project Link](https://github.com/adesh-gadge/challenges/blob/master/data-science/data-science-exercise-solution.ipynb) </br>
-Detected stages of machine using vibration sensor readings from the subset of NASA Acoustics and Vibration Database with Autoencoder for anomaly detection and Naïve Bayes classifier on windowed signal </br>
+Impelemented Collaborative Filtering, Content Filtering and Hybrid Recommendation system </br>
 Performed data preprocessing: erroneous(outlier) sensor readings removal, standardization, reshaping </br>
 Detected faulty stage about 47 days prior failure occurs giving ample time for engineers for quality check </br>
 

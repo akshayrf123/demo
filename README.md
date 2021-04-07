@@ -5,8 +5,9 @@ Collection of Data Science Projects completed by me for academic, self learning 
 ## Recommendation System
 
 ### Movie Recommendation system
-[Project Link]() </br>
+
 Impelemented Collaborative Filtering, Content Filtering and Hybrid Recommendation system </br>
+[Content Based Recommendation](https://github.com/akshayrf123/demo/blob/master/content_based_recommendation.ipynb)</br>
 
 
 ### Human Protein Multi Label Image Classification

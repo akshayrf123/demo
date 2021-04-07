@@ -11,12 +11,12 @@ Used NLP techniques on review to calculate the sentiment and combined along with
 [Sentiment Analysis](https://github.com/akshayrf123/demo/blob/master/4.%20Sentiment%20Analysis%20and%20Classification%20of%20Restaurant.ipynb)</br>
 
 
-## Time Series Forecasting
+## Rental Bike Time Series Forecasting
 
 Forecasted the number of rentals of bikes with time based on external attributes like Temperature, wind speed and humidity. A study was also made on if the bike renting services are in greater demand during weekends. Used ACF, PACF plots, Spectral Analysis and Visual Decomposition techniques to check for seasonality in the
 variables. Rental count was forecasted using ARIMA,SARIMA, SARIMAX.
 
-[TimeSeriesForecasting](https://github.com/akshayrf123/demo/blob/master/Bicycle_renting_Time_Series_Analysis_final-1.ipynb)</br>
+[Rental Bike TimeSeriesForecasting](https://github.com/akshayrf123/demo/blob/master/Bicycle_renting_Time_Series_Analysis_final-1.ipynb)</br>
 
 
 ### Movie Recommendation system

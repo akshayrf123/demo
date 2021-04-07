@@ -4,7 +4,7 @@ Collection of Data Science Projects completed by me for academic, self learning 
 
 ## Recommendation System
 
-### Faulty, Failed Stages Detection using Autoencoder with Keras
+### Movie Recoomendation system
 [Project Link](https://github.com/adesh-gadge/challenges/blob/master/data-science/data-science-exercise-solution.ipynb) </br>
 Detected stages of machine using vibration sensor readings from the subset of NASA Acoustics and Vibration Database with Autoencoder for anomaly detection and Naïve Bayes classifier on windowed signal </br>
 Performed data preprocessing: erroneous(outlier) sensor readings removal, standardization, reshaping </br>

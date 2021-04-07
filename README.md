@@ -40,7 +40,7 @@ Implemented Linear Regression algorithm from stratch using gradient descent algo
 
 Conducted Exploratory Data Analysis of Popular English Premier League
 
-[English Premier League Analysis](https://github.com/akshayrf123/demo/blob/master/English_Football_anlaysis%20(1).ipynb)</br>
+[English Premier League Analysis](https://colab.research.google.com/drive/1m8mSt1ZRYQ9fO_lWJ6BaY_2_ErVbzPYm?usp=sharing)</br>
 
 
 
